@@ -4,7 +4,7 @@ export default {
   title: 'Post',
   fields: [
     {type: 'string', name: 'title', title: 'Title'},
-    {type: 'datetime', name: 'publishedAt', title: 'Published at'},
+    {type: 'datetime', name: 'publishedAt', title: 'Published at from here'},
     {type: 'image', name: 'image', title: 'Image'}
   ],
   preview: {
